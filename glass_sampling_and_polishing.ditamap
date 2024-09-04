@@ -1,0 +1,22 @@
+<?xml version="1.0"  encoding="UTF-8" standalone="no"?>
+    <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+      <map id="q4595753" xml:lang="en-us">
+        <title>Glass Sampling and Polishing</title>
+        <topicref href="glass_sampling_and_polishing.dita">
+<topicref href="purposeapplication.dita"/>
+<topicref href="ppe_required.dita">
+<topicref href="general.dita"/>
+<topicref href="required_for_specific_sections.dita"/>
+</topicref>
+<topicref href="safety_hazards.dita"/>
+<topicref href="safety_controls.dita"/>
+<topicref href="equipment_needed.dita"/>
+<topicref href="comments.dita"/>
+<topicref href="glass_cube_sampling.dita"/>
+<topicref href="glass_cube_polishing.dita"/>
+<topicref href="consumables.dita"/>
+<topicref href="approval.dita"/>
+<topicref href="revision_history.dita"/>
+</topicref>
+
+      </map>
