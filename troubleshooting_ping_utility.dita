@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                            <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+                            <concept id="d1125215" xml:lang="en-us"><title class="- topic/title " id="_Toc171695914">Troubleshooting Ping Utility</title><conbody><p>Most computers and routers have a diagnostic utility called <i>ping </i>that sends an request to a target device. The device then replies. The ping utility makes it easy to troubleshoot a network.</p></conbody></concept>

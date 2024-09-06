@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8" standalone="no"?>
+    <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+      <map id="r9705343" xml:lang="en-us">
+        <title>Wireless Router Setup Manual</title>
+        <topicref href="wireless_router_setup_manual.dita">
+<topicref href="chapter_1.dita"/>
+<topicref href="connecting_the_router_to_the_internet.dita">
+<topicref href="whats_in_the_box.dita">
+<topicref href="the_wireless_router_label.dita"/>
+<topicref href="the_front_of_the_wireless_router.dita"/>
+<topicref href="the_back_of_the_wireless_router.dita"/>
+</topicref>
+<topicref href="before_you_begin.dita"/>
+<topicref href="two_setup_methods.dita"/>
+<topicref href="smart_wizard_setup.dita"/>
+<topicref href="manual_setup.dita"/>
+<topicref href="product_support.dita"/>
+<topicref href="wireless_router.dita"/>
+<topicref href="wireless_connectivity.dita"/>
+<topicref href="wireless_security.dita"/>
+</topicref>
+<topicref href="chapter_2__troubleshooting.dita">
+<topicref href="quick_tip.dita">
+<topicref href="start_your_network_in_this_sequence.dita"/>
+<topicref href="ethernet_cables_are_secure_plugged.dita"/>
+<topicref href="check_network_settings.dita"/>
+<topicref href="check_the_router_status.dita"/>
+</topicref>
+<topicref href="basic_functioning.dita">
+<topicref href="power_light_not_on.dita"/>
+<topicref href="power_light_stays_amber.dita"/>
+<topicref href="lan_or_internet_port_lights_not_on.dita"/>
+<topicref href="led_blinks_green_once_per_second.dita"/>
+</topicref>
+<topicref href="troubleshooting_wireless_router.dita"/>
+<topicref href="troubleshooting_the_internet_service.dita">
+<topicref href="internet_connection.dita">
+<topicref href="wireless_router_internet_light_is_green_or_blinking_green.dita"/>
+<topicref href="wireless_router_internet_light_off.dita"/>
+</topicref>
+<topicref href="obtaining_an_internet_ip_address.dita"/>
+<topicref href="troubleshooting_pppoe.dita"/>
+<topicref href="troubleshooting_internet_browsing.dita"/>
+</topicref>
+<topicref href="restoring_configuration_and_password.dita"/>
+<topicref href="troubleshooting_ping_utility.dita">
+<topicref href="testing_the_path_from_a_pc_to_your_router.dita"/>
+<topicref href="testing_the_path_from_a_pc_to_the_internet.dita"/>
+</topicref>
+</topicref>
+<topicref href="appendix_a.dita"/>
+<topicref href="technical_specifications.dita"/>
+<topicref href="appendix_b_related_documents.dita"/>
+</topicref>
+
+      </map>
